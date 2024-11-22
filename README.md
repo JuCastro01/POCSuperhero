@@ -1,7 +1,6 @@
 # POCSuperhero
 
 
-
 ## Definição:
 Este código é um componente React que consome uma API de super-heróis para buscar e exibir informações, como nomes, imagens e estatísticas (inteligência e força) de heróis específicos. Ele realiza requisições assíncronas para obter os dados e os exibe em cartões estilizados com barras visuais que representam as estatísticas, utilizando uma combinação de estilos globais e locais para formatar a interface de forma dinâmica e organizada.
 
@@ -15,7 +14,7 @@ npm run dev
 
 ```
 
-![image](https://github.com/user-attachments/assets/12e9474d-8933-481b-b78d-c91d4618d2e7)
+![image](https://github.com/user-attachments/assets/42447fc5-09d8-4492-b620-249a8f2b8b4a)
 
 
 ## 🛠️ Construído com:
